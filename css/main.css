@@ -188,3 +188,68 @@ class of right and find all li tags inside then all the anchor tags inside*/
 	letter-spacing: 0.1px;
 	font-size: 14px;
 }
+
+
+/*========Media Query=========*/
+@media (max-width: 700px) {
+	.searchBox input {
+		width: 80%;
+	}
+}
+@media (max-width: 425px) {
+	.profileImg {
+		display: none;
+	}
+}
+@media (max-width: 425px) {
+	.fa {
+		display: none;
+	}
+}
+@media (max-width: 525px) {
+	.bottomLinks {
+		text-align: center;
+		margin: 0 auto;
+	}
+}
+@media (max-width: 525px) {
+	.left {
+		text-align: center;
+		margin: 0 auto;
+		width: 100%;
+		padding: 0;
+	}
+}
+@media (max-width: 525px) {
+	.right {
+		text-align: center;
+		margin: 0 auto;
+		width: 100%;
+		padding: 0;
+	}
+}
+@media (max-width: 525px) {
+	.searchBox img {
+	padding: 125px 0 24px 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
